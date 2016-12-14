@@ -1,4 +1,4 @@
-import * as safejs from './index.js'
+import * as safejs from 'Components\safe-js-0.3.2-src\index.js'
 
 if( ! window.safeAuth )
 {
