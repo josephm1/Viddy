@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
 var hostName = window.location.host.replace(/.safenet$/g, '');
 var LOCAL_STORAGE_TOKEN_KEY = `SAFE_TOKEN_${hostName}`;
 var app = {
-    name: window.location.host,
+    name: "Viddy",
     id: 'Viddy',
     version: '1',
     vendor: 'Joe',
