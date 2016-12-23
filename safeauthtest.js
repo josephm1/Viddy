@@ -12,8 +12,8 @@ var hostName = window.location.host.replace(/.safenet$/g, '');
 var LOCAL_STORAGE_TOKEN_KEY = `SAFE_TOKEN_${hostName}`;
 var app = {
     name: "Viddy",
-    id: 'Viddy',
-    version: '1',
+    id: 'Joe',
+    version: '0.0.1',
     vendor: 'Joe',
     permissions: [
     'LOW_LEVEL_API', "SAFE_DRIVE_ACCESS"
